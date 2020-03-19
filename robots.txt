@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eiquooquo.wongming.cn/sitemap.xml
